@@ -34,7 +34,7 @@ Siga paso a paso los comandos en este documento y grabe un video de su servidor 
      
      c. ¿Qué diferencia tienen los resultados de los usuarios creados por los distintos comandos (``useradd`` y ``adduser``) para agregar usuarios? 
   
-  8. Corra el comando sudo userdel usuario y corra ```ls -l /home/```
+  8. Corra el comando ```sudo userdel usuario``` y corra ```ls -l /home/```
      Ahora haremos backup de la información del usuario eliminado.
   
   9. Cree una nueva carpeta llamada bckup en su usuario con el comando ```mkdir bckup```
